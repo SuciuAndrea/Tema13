@@ -50,3 +50,4 @@ public class VowelChecker {
         scanner.close();
     }
 }
+
